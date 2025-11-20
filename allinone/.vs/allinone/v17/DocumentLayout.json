@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bonny\\source\\repos\\allinone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2FD7-1508-4DAF-AEF4-5642FFC93717}|allinone\\allinone.csproj|c:\\users\\bonny\\source\\repos\\allinone\\allinone\\autorise.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570F2FD7-1508-4DAF-AEF4-5642FFC93717}|allinone\\allinone.csproj|solutionrelative:allinone\\autorise.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2FD7-1508-4DAF-AEF4-5642FFC93717}|allinone\\allinone.csproj|C:\\Users\\bonny\\source\\repos\\allinone\\allinone\\autorise2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570F2FD7-1508-4DAF-AEF4-5642FFC93717}|allinone\\allinone.csproj|solutionrelative:allinone\\autorise2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2FD7-1508-4DAF-AEF4-5642FFC93717}|allinone\\allinone.csproj|C:\\Users\\bonny\\source\\repos\\allinone\\allinone\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{570F2FD7-1508-4DAF-AEF4-5642FFC93717}|allinone\\allinone.csproj|solutionrelative:allinone\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2FD7-1508-4DAF-AEF4-5642FFC93717}|allinone\\allinone.csproj|C:\\Users\\bonny\\source\\repos\\allinone\\allinone\\mainmain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{570F2FD7-1508-4DAF-AEF4-5642FFC93717}|allinone\\allinone.csproj|solutionrelative:allinone\\mainmain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2FD7-1508-4DAF-AEF4-5642FFC93717}|allinone\\allinone.csproj|C:\\Users\\bonny\\source\\repos\\allinone\\allinone\\useraddedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{570F2FD7-1508-4DAF-AEF4-5642FFC93717}|allinone\\allinone.csproj|solutionrelative:allinone\\useraddedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570F2FD7-1508-4DAF-AEF4-5642FFC93717}|allinone\\allinone.csproj|C:\\Users\\bonny\\source\\repos\\allinone\\allinone\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570F2FD7-1508-4DAF-AEF4-5642FFC93717}|allinone\\allinone.csproj|solutionrelative:allinone\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "autorise.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bonny\\source\\repos\\allinone\\allinone\\autorise.xaml.cs",
+              "RelativeDocumentMoniker": "allinone\\autorise.xaml.cs",
+              "ToolTip": "C:\\Users\\bonny\\source\\repos\\allinone\\allinone\\autorise.xaml.cs",
+              "RelativeToolTip": "allinone\\autorise.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T18:53:55.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserAddEdit.xaml",
+              "DocumentMoniker": "C:\\Users\\bonny\\source\\repos\\allinone\\allinone\\UserAddEdit.xaml",
+              "RelativeDocumentMoniker": "allinone\\UserAddEdit.xaml",
+              "ToolTip": "C:\\Users\\bonny\\source\\repos\\allinone\\allinone\\UserAddEdit.xaml",
+              "RelativeToolTip": "allinone\\UserAddEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-19T19:34:11.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mainmain.xaml",
+              "DocumentMoniker": "C:\\Users\\bonny\\source\\repos\\allinone\\allinone\\mainmain.xaml",
+              "RelativeDocumentMoniker": "allinone\\mainmain.xaml",
+              "ToolTip": "C:\\Users\\bonny\\source\\repos\\allinone\\allinone\\mainmain.xaml",
+              "RelativeToolTip": "allinone\\mainmain.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-19T19:33:58.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bonny\\source\\repos\\allinone\\allinone\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "allinone\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bonny\\source\\repos\\allinone\\allinone\\MainWindow.xaml",
+              "RelativeToolTip": "allinone\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-19T19:33:37.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bonny\\source\\repos\\allinone\\allinone\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "allinone\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bonny\\source\\repos\\allinone\\allinone\\MainWindow.xaml.cs",
+              "RelativeToolTip": "allinone\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAIwM0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:27:04.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "autorise2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bonny\\source\\repos\\allinone\\allinone\\autorise2.xaml.cs",
+              "RelativeDocumentMoniker": "allinone\\autorise2.xaml.cs",
+              "ToolTip": "C:\\Users\\bonny\\source\\repos\\allinone\\allinone\\autorise2.xaml.cs",
+              "RelativeToolTip": "allinone\\autorise2.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:17:33.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
