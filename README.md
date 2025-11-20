@@ -34,6 +34,19 @@ Database/
 --README.md
 
 Project/
+
+--allinone
+
+  --- .vs
+  
+  --- allinone
+
+  --- packages
+
+  --- allinone.sln
+  
+--README.md
+
 ## Руководство пользователя
 
 Запустите программу.
